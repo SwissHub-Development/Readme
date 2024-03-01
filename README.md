@@ -13,7 +13,7 @@ Discord: https://discord.gg/swisshub
 
 ### Repo management
 - Management: Manu (Discord: manu)
-- Lead developer: Poison (Discord: poisonlocket)
+- Lead developer: Poison (Github: poisonlocket)
 - Developer: miilashd (Discord: milaashd)
 
 ------------------------------------------------------------------------------------------
@@ -34,5 +34,5 @@ Discord: https://discord.gg/swisshub
 
 ### Repo-Management
 - Leitung: Manu (Discord: manu)
-- Leitender Entwickler: Poison (Discord: poisonlocket)
+- Leitender Entwickler: Poison (Github: poisonlocket)
 - Entwickler: miilasd (Discord: milaashd)
