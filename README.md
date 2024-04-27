@@ -35,4 +35,4 @@ Discord: https://discord.gg/swisshub
 ### Repo-Management
 - Leitung: Manu (Discord: manu)
 - Entwickler: Poison (Github: [poisonlocket](https://github.com/poisonlocket))
-- Entwickler: milaasHD (Discord: milaashd)
+- Entwickler: milaasHD (GitHub: [milaasHD](https://github.com/milaasHD))
